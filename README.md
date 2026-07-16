@@ -1,10 +1,17 @@
 # C-basic-learning
 ## C Programming: A Modern Approach (2nd Edition) 🚀
 
-Welcome to my personal repository dedicated to mastering the C programming language! This repository contains my solutions to select programming projects from the legendary textbook **"C Programming: A Modern Approach" (2nd Edition) by K. N. King**, alongside my own custom projects designed to reinforce these concepts.
+Welcome to my personal repository dedicated to mastering the C programming language! This repository contains my solutions to select programming projects from the legendary textbook **"C Programming: A Modern Approach" (2nd Edition) by K. N. King**, which is uploaded in the repository, alongside my own custom projects designed to reinforce these concepts.
 
 ---
+## 📂 Repository Structure
 
+The repository is organized into distinct directories to keep code separate from documentation:
+
+* **📁 `Chapters [X] and [Y]` (Code Folder):** Contains all the programming projects and source code (`.c` files), neatly ordered by their respective chapters.
+* **📁 `Notes Chapters [X] and [Y]` (Notes Folder):** Contains my comprehensive study notes exported from Notion. Inside this folder, the very first file you will see is the **`.md` (Markdown)** file containing the actual text and notes, followed by the images embedded within it.
+
+---
 ## 📂 Project Naming Conventions
 
 To keep this repository organized, all project directories follow a strict nomenclature:
