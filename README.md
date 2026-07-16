@@ -66,6 +66,8 @@ K. N. King's textbook provides a comprehensive, modern deep-dive into C. Here is
 | `P22_VolumeOfAnSphere` | Volume of a sphere with desired Radius calculator | Own project on variables and arithmetic formulas with exponents|
 | `OP21_GameEstatsCalculator` | KPG (Kills Per Game) Calculator | Own project on int and float variables and learning to us scanf |
 | `OP22_fromCdegreestoKandF` | Celsius to Kelvin & Fahrenheit converter | Own project on variables and arithmetic formulas |
+| `P27_BillCalculator` | Euro Denomination Calculator | Own project on plenty of variables and arithmetic formulas to gain ability with a lot of objects |
+
 
 
 *(Feel free to update this table as you add more projects to your repository!)*
